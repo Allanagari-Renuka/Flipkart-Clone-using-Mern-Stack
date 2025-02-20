@@ -1,0 +1,1 @@
+export const branddata=["Kilos","Mobiles","Fashion","Electronics","Furniture","Appliances","Flight","Toys","TwoWheelers"];
