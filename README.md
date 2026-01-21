@@ -493,27 +493,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-> *Add screenshots of your application here*
-
-### Homepage
-![Homepage](link-to-screenshot)
-
-### Product Details
-![Product Details](link-to-screenshot)
-
-### Shopping Cart
-![Shopping Cart](link-to-screenshot)
-
-### Checkout
-![Checkout](link-to-screenshot)
-
-### Admin Dashboard
-![Admin Dashboard](link-to-screenshot)
-
----
-
 ## ⚡ Performance
 
 ### Optimization Techniques
@@ -627,33 +606,6 @@ Contributions are welcome! Please follow these steps:
 
 </div>
 
-**About Me:**
-- 🎓 B.Tech in CSE (AI) – 88%
-- 💼 Frontend Developer @ Ango Digital Technologies
-- 🚀 1+ years of professional development experience
-- 💡 Specialized in building scalable full-stack applications
-- 🌟 Passionate about creating exceptional user experiences
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-**Copyright © 2026 Allanagari Renuka. All rights reserved.**
-
----
-
-## 🙏 Acknowledgments
-
-- **Flipkart** for design inspiration
-- **React Community** for excellent documentation
-- **MongoDB** for robust database solutions
-- **Vite** for lightning-fast development experience
-- **All Contributors** who helped improve this project
-
----
-
 ## 📞 Support & Contact
 
 ### Need Help?
@@ -688,11 +640,6 @@ Please report it in the [Issues](https://github.com/Allanagari-Renuka/Flipkart-C
 **⭐ Star this repository if you found it helpful!**
 
 **🔔 Watch this repository to get notified about updates**
-
 ---
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=2874F0&center=true&vCenter=true&width=600&lines=Happy+Shopping!+🛒;Made+with+❤️+and+React;Thanks+for+visiting!+⭐" alt="Footer" />
-
-**Made with ❤️ by [Allanagari Renuka](https://github.com/Allanagari-Renuka)**
-
 </div>
